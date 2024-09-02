@@ -8,7 +8,7 @@
 <br></br>
 <h1> <b> Especialización en Programación Aplicada </b> </h1>
 <p>
-<h1> <b> Notebook 01 </b> </h1>
+
 <hr size=10 noshade color="red">
 </p>
 <p>
