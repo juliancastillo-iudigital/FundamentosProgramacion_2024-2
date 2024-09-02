@@ -2,13 +2,13 @@
 <p><img alt="IUDigital" height="80px" src="https://www.iudigital.edu.co/images/11.-IU-DIGITAL.png" align="left" hspace="10px" vspace="0px"></p></div>
 <div> </div>
 <div align="right">
-<p><img alt="Posgrado" height="100" src="https://www.iudigital.edu.co/images/Oferta%20Educativa/Especializacion/EPAplicada/Banner-Especializacion-en-Programacion-Aplicada.webp" align="right" hspace="10px" vspace="10px"></p></div>
+<p></p></div>
 <br></br>
 <br></br>
 <br></br>
 <h1> <b> Especialización en Programación Aplicada </b> </h1>
 <p>
-<h1> <b> Notebook 03 </b> </h1>
+<h1> <b> Estructuras Condicionales </b> </h1>
 <hr size=10 noshade color="red">
 </p>
 <p>
